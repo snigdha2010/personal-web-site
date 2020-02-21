@@ -1,0 +1,117 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0em;
+}
+
+p{
+    color: rgb(41, 6, 6);
+}
+.perpel-heighlight{ 
+    color: rgb(197, 22, 95);
+    font-size: 70px;
+}
+
+.half-width{
+    height: 50px;
+    width: 40%;
+    margin-left: 8%;
+    padding-top: 15%;
+}
+.header-area{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover; 
+    height: 700px;
+}
+
+.hire-link-button{
+    text-decoration: none;
+    background-color: rgb(197, 22, 95);
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+.left-half{
+    height: 50px;
+    width: 30%;
+    margin-left: 60%;
+    padding-top: 20%;
+}
+.biography-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+
+}
+
+
+
+.img{
+    width: 25%;
+    height: 60%;
+    margin-left: 6%;
+    margin-top: 2%;
+}
+.image-area h2 {
+    text-align: center;
+}
+.footer-content{
+    text-align: center;
+}
+.client{
+
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    height: 580px;
+    padding-top: 100px;
+}
+
+.client h2{
+    font-weight: 900;
+}
+.client h3{
+    color:grey;
+}
+
+.footer-content p{
+    width: 50%;
+    margin-left: 25%;
+    font:bold;  
+    margin-top: 10%;
+    text-size-adjust: 10px;
+}
+    
+
+.message{
+    
+    text-align: center;
+    background-color:  rgb(197, 22, 95);
+    color: white;
+    padding: 1% 0% 1% 0%;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+  
+}
+
+.email{
+    font-weight: bold;
+    font-size: 115%;
+}
+
+footer p{
+    text-align: center;
+    color: grey;
+}
+
+
+
+
+
+
